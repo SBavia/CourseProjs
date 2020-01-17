@@ -1,0 +1,11 @@
+﻿  SetConsoleAttributes.cpp
+c:\users\maurice\desktop\kursach1\src\setconsoleattributes.cpp(16): warning C4838: преобразование из "int" в "SHORT" требует сужающего преобразования
+c:\users\maurice\desktop\kursach1\src\setconsoleattributes.cpp(28): warning C4838: преобразование из "int" в "SHORT" требует сужающего преобразования
+  Pellet.cpp
+  Pacman.cpp
+  Main.cpp
+  Ghost.cpp
+  Game.cpp
+  Создание кода...
+  pacplusplusman.vcxproj -> C:\Users\Maurice\Desktop\Kursach1\Debug\PAC++MAN.exe
+  pacplusplusman.vcxproj -> C:\Users\Maurice\Desktop\Kursach1\Debug\PAC++MAN.pdb (Full PDB)
